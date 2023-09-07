@@ -7,7 +7,7 @@
 
 #
 
-<a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc2.md">
+<a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc2.drawio">
   <img src="https://i.imgur.com/Xfmr0zr.png" alt="Docs" />
 </a>
 
