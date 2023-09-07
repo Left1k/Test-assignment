@@ -8,7 +8,7 @@ f" height="32"/> и это моя тестовая дока.</h1>
 
 ---
 
-[![](https://5literatura.net/datas/literatura/Stili-rechi/0020-020-Publitsisticheskij-stil.jpg)](docs//doc1.md) 
+[![hello](https://5literatura.net/datas/literatura/Stili-rechi/0020-020-Publitsisticheskij-stil.jpg)](docs//doc1.md) 
 
 [link](docs//doc1.md)
 
