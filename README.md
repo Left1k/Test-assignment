@@ -8,15 +8,29 @@ f" height="32"/> и это моя тестовая дока.</h1>
 
 ---
 
+>Ниже представлены разделы с моими ответами на тестовое задание.
+
+#
+
 <a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc1.md">
   <img src="https://sarinform.ru/assets/images/resources/231663/23-1.jpg" alt="Docs" />
 </a>
 
+#
 
+<a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc1.md">
+  <img src="https://sarinform.ru/assets/images/resources/231663/23-1.jpg" alt="Docs" />
+</a>
 
+#
 
+<a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc1.md">
+  <img src="https://sarinform.ru/assets/images/resources/231663/23-1.jpg" alt="Docs" />
+</a>
 
+#
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<a href="https://github.com/Left1k/Test-assignment/blob/main/Docs/doc1.md">
+  <img src="https://sarinform.ru/assets/images/resources/231663/23-1.jpg" alt="Docs" />
+</a>
+
