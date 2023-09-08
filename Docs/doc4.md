@@ -18,7 +18,7 @@ After that, there is a clickable menu with the following items:
 * Orders 
 * Refunds 
 * Purchased goods
-* Tickets and hotels\
+* Tickets and hotels
 * Reviews 
 * Comparison of goods 
 * Codes and certificates
